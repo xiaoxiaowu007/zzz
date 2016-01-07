@@ -8,7 +8,7 @@ $signPackage = $jssdk->GetSignPackage();
 <html lang="ch">
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <title>龙展传媒--移动端广告精准投放问问我蜂窝肺违反</title> 
+  <title>龙展传媒--移动端广告精准投放问问我蜂窝肺违啊非法发我发发反</title> 
   <meta charset="utf-8" /> 
   <meta http-equiv="pragma" content="no-cache" /> 
   <meta http-equiv="Cache-Control" content="no-cache, must-revalidate" /> 
